@@ -1,2 +1,8 @@
 node_modules/
 build/
+.env
+javascript/**/migrations/
+typescript/**/migrations/
+prisma/**/migrations/
+src/database/
+experimental/**/*.db
